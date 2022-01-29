@@ -1,12 +1,30 @@
 # This file contains additional build requirements that did not get
 # picked up automatically. One name per line, no whitespace.
 bluez-qt-dev
+buildreq-cmake
+buildreq-kde
+extra-cmake-modules
+extra-cmake-modules-data
 kactivities-dev
 kded-dev
+kdoctools-dev
 kglobalaccel-dev
+ki18n-dev
 kidletime-dev
+kirigami2-dev
 knotifyconfig-dev
 kwayland-dev
+libcap-dev
 libkscreen-dev
+mesa-dev
+networkmanager-qt-dev
+pkg-config
 plasma-workspace-dev
+qtbase-dev
 systemd-dev
+xcb-util-cursor-dev
+xcb-util-dev
+xcb-util-image-dev
+xcb-util-keysyms-dev
+xcb-util-renderutil-dev
+xcb-util-wm-dev

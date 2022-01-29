@@ -1,3 +1,4 @@
+ld-linux-x86-64.so.2
 libKF5Activities.so.5
 libKF5AuthCore.so.5
 libKF5BluezQt.so.6
@@ -12,6 +13,7 @@ libKF5GlobalAccel.so.5
 libKF5I18n.so.5
 libKF5IdleTime.so.5
 libKF5KIOWidgets.so.5
+libKF5Kirigami2.so.5
 libKF5NetworkManagerQt.so.6
 libKF5Notifications.so.5
 libKF5NotifyConfig.so.5
@@ -29,5 +31,4 @@ libQt5X11Extras.so.5
 libX11.so.6
 libc.so.6
 libkworkspace5.so.5
-libstdc++.so.6
 libudev.so.1
